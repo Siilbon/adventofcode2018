@@ -1,0 +1,5 @@
+[
+  "day02_test.py::test_get_freq",
+  "day02_test.py::test_reoccuring",
+  "day02_test.py::test_checksum"
+]
