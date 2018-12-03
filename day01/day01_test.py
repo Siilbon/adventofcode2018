@@ -1,4 +1,4 @@
-from day1 import recalibrate, loop
+from day01 import recalibrate, loop
 
 def test_recalibrate():
     assert recalibrate([1, 1, 1]) == 3

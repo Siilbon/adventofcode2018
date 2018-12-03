@@ -18,5 +18,5 @@ def loop(input_list):
     
 
 if __name__ == "__main__":    
-    print('Part1: ', recalibrate(read('day1_input.txt')))
-    print('Part2: ', loop(read('day1_input.txt')))
+    print('Part1: ', recalibrate(read('day01_input.txt')))
+    print('Part2: ', loop(read('day01_input.txt')))
